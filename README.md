@@ -13,3 +13,8 @@ In order to answer this question, you have to build a model get some recommendat
 -  [explore and cluster the neighborhoods in Toronto3](https://github.com/yuyongze2014/coursera-capstone-project/blob/master/explore%20and%20cluster%20the%20neighborhoods%20in%20Toronto2.ipynb)
 
 Then, you will you the build model to pridict the number of *Chinese restaruant* in your city and compare with exiting number of *Chinese restaruant*. And a potaitial place to start your business!
+
+
+#### Pick a city
+In this project, we will us *Columbus,OH* as example, to see how we can achieve it.
+Neighborhoods infomation is get from [city-data.com](http://www.city-data.com/nbmaps/neigh-Columbus-Ohio.html) 
