@@ -1,5 +1,5 @@
 # Coursera-Capstone-Project
-(_This is the capstone project for IBM data science professional courses)  
+(This is the capstone project for IBM data science professional courses)  
 (_find Presentation slide [here](https://github.com/yuyongze/coursera-capstone-project/blob/master/Coursera-Capstone-Project.pdf)_)
 
 In this project we will focus on using the location data to explore interesting problems in real word!
