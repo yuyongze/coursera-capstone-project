@@ -23,5 +23,4 @@ In this project, we will us *Columbus,OH* as example, to see how we can achieve 
 Neighborhoods infomation is get from [city-data.com](http://www.city-data.com/nbmaps/neigh-Columbus-Ohio.html) 
 
 
-Discovery new city Columbus in this [notebook]
-(https://github.com/yuyongze/coursera-capstone-project/blob/master/Capstone-project-Chinese-Restaurant%20.ipynb)
+Discovery new city Columbus in this [notebook](https://github.com/yuyongze/coursera-capstone-project/blob/master/Capstone-project-Chinese-Restaurant%20.ipynb)
